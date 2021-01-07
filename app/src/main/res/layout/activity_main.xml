@@ -13,9 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerVertical="true"
-        android:layout_marginEnd="0dp"
-        android:layout_marginBottom="299dp"
         android:text="Add" />
 
     <EditText
@@ -24,10 +21,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerVertical="true"
-        android:layout_marginStart="1dp"
-        android:layout_marginEnd="-1dp"
-        android:layout_marginBottom="303dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="3dp"
         android:layout_toStartOf="@+id/Addbtn"
         android:ems="10"
         android:hint="Add an item here!"
